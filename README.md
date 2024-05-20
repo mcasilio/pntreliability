@@ -8,7 +8,7 @@ To use materials in this repository, we ask that future authors cite the followi
 Casilio, M., Fleegle, M., Bedrick, S., & Fergadiotis, G. (submitted). How reliably do clinicians classify paraphasias?
 
 # Data
-The zip file data.zip contains four data files for replicating analyses reported in the manuscript:
+The file **data.zip** contains four data files for replicating analyses reported in the manuscript:
 
 **pntreliability.txt**
 
@@ -20,7 +20,7 @@ This is the master file containing all error codes across for the 25 clinician r
 
 **proportion_semanticjudgments.txt**
 
-These are files that transform the data from the master file (pntreliability.txt) into the proportion of judgments along a given dimension, for all responses nested within a participant, for each of the 25 clinican raters in the study. These files are most useful for replicating agreement metrics using intraclass correlation coefficients.
+These are files that transform the data from the master file (pntreliability.txt) into the proportion of judgments along a given dimension, for all responses nested within a PNT administration, for each of the 25 clinican raters in the study. These files are most useful for replicating agreement metrics using intraclass correlation coefficients.
 
 # Training
 Included in the training.zip file is all of the materials we created to train the clinician raters in the paraphasia classification scheme of the Philadelphia Naming Test (PNT; Roach et al., 1996). In some cases, similar materials are also available at https://mrri.org/philadelphia-naming-test/. The picture stimuli for the PNT can also be found at this URL. Finally, we have not included the book chapter that was an assigned reading as part of the training program but have included the citation here for those who may be interested:
